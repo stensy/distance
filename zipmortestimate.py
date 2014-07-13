@@ -2,7 +2,7 @@
 
 zipmortestimate.py
 
-This script should do the following:
+This script does the following:
 
 I. take the ZIP code database and calculate the following:
     1. total population for each county
